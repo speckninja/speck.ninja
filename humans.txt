@@ -3,7 +3,7 @@
 Debugging: Theta
 Email: theta@speck.ninja
 
-Writing: Marceline
+Code/Writing: Marceline
 Email: marceline@speck.ninja
 
 Design: Lilim
